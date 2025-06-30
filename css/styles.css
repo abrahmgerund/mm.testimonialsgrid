@@ -160,7 +160,6 @@ section {
 
     .card-1 {
     background: var(--purple-500);
-    color: var(--grey-100);
-}
+    }
 
 }
