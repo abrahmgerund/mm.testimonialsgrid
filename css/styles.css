@@ -159,7 +159,7 @@ section {
     }
 
     .card-1 {
-    background: var(--purple-500);
+        background: var(--purple-500);
     }
 
 }
